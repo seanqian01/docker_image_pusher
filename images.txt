@@ -1,3 +1,6 @@
 nginx
 mariadb
 phpmyadmin
+1panel/maxkb
+osixia/openldap
+osixia/phpldapadmin
