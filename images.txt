@@ -5,3 +5,4 @@ phpmyadmin
 osixia/openldap
 osixia/phpldapadmin
 open-webui
+ubuntu
