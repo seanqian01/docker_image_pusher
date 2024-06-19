@@ -4,3 +4,4 @@ phpmyadmin
 1panel/maxkb
 osixia/openldap
 osixia/phpldapadmin
+open-webui
