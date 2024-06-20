@@ -6,3 +6,4 @@ osixia/openldap
 osixia/phpldapadmin
 ubuntu
 ghcr.io/open-webui/open-webui:main
+redis
