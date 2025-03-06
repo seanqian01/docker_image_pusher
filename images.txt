@@ -7,3 +7,4 @@ osixia/phpldapadmin
 ubuntu
 ghcr.io/open-webui/open-webui:main
 redis
+honeygain/honeygain
