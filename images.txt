@@ -8,3 +8,5 @@ ubuntu
 ghcr.io/open-webui/open-webui:main
 redis
 honeygain/honeygain
+postgres
+dpage/pgadmin4
