@@ -10,3 +10,9 @@ redis
 honeygain/honeygain
 postgres
 dpage/pgadmin4
+--platform linux/arm64 postgres
+--platform linux/arm64 dpage/pgadmin4
+--platform linux/arm64 nginx
+--platform linux/arm64 mariadb
+--platform linux/arm64 phpmyadmin
+--platform linux/arm64 redis
