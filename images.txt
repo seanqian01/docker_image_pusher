@@ -16,3 +16,4 @@ dpage/pgadmin4
 --platform linux/arm64 mariadb
 --platform linux/arm64 phpmyadmin
 --platform linux/arm64 redis
+--platform linux/arm64 filebrowser
