@@ -17,3 +17,4 @@ dpage/pgadmin4
 --platform linux/arm64 phpmyadmin
 --platform linux/arm64 redis
 --platform linux/arm64 filebrowser/filebrowser
+--platform linux/arm64 louislam/uptime-kuma
