@@ -10,6 +10,7 @@ redis
 honeygain/honeygain
 postgres
 dpage/pgadmin4
+mprasil/bitwarden
 --platform linux/arm64 postgres
 --platform linux/arm64 dpage/pgadmin4
 --platform linux/arm64 nginx
@@ -18,4 +19,3 @@ dpage/pgadmin4
 --platform linux/arm64 redis
 --platform linux/arm64 filebrowser/filebrowser
 --platform linux/arm64 louislam/uptime-kuma
---platform linux/arm64 mprasil/bitwarden
