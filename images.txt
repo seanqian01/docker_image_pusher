@@ -16,5 +16,5 @@ dpage/pgadmin4
 --platform linux/arm64 redis
 --platform linux/arm64 filebrowser/filebrowser
 --platform linux/arm64 louislam/uptime-kuma
---platform linux/arm64 mprasil/bitwarden
+--platform linux/arm64 vaultwarden/server
 
